@@ -1,0 +1,60 @@
+{
+  "cachedAt": "2026-10-16T16:32:35.239Z",
+  "bookings": [
+    {
+      "id": "4461a755-8e7f-4488-aeea-94a49ec8b532",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-03T13:00:00Z",
+      "endDate": "2026-10-03T14:30:00Z",
+      "title": "Turf Rental",
+      "resourceName": "Turf Schedule",
+      "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "f7c8053f-1143-4655-acb8-184a5ff00330",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-03T16:00:00Z",
+      "endDate": "2026-10-03T17:30:00Z",
+      "title": "Turf Rental",
+      "resourceName": "Turf Schedule",
+      "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "83a5e72c-65af-417f-9aa3-2be2f851b109",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-05T22:00:00Z",
+      "endDate": "2026-10-05T23:15:00Z",
+      "title": "Canes PA/OV Savage Speed & Agility – Drop-In (10–13u)",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "c8f54879-5b72-4246-8e4a-f6fa399b342a",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-06T20:00:00Z",
+      "endDate": "2026-10-06T20:30:00Z",
+      "title": "1/2 Hour Hitting Coach Muraco",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "201abda7-93c5-4bb0-9c9b-e364b7d21db2",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-07T19:15:00Z",
+      "endDate": "2026-10-07T21:15:00Z",
+      "title": "Comprehensive Assesment",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    }
+  ]
+}
