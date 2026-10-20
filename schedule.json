@@ -1,118 +1,8 @@
 {
-  "cachedAt": "2026-10-17T14:57:50.361Z",
+  "cachedAt": "2026-10-20T15:31:38.377Z",
   "bookings": [
     {
-      "id": "57694575-d983-40a8-964b-2765fd33f310",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-03T13:00:00Z",
-      "endDate": "2026-10-03T14:30:00Z",
-      "title": "Turf Rental",
-      "resourceName": "Turf Schedule",
-      "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "3480b2be-dc54-4ed4-8622-61de9286a392",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-03T16:00:00Z",
-      "endDate": "2026-10-03T17:30:00Z",
-      "title": "Turf Rental",
-      "resourceName": "Turf Schedule",
-      "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "40a3a69b-93dd-4690-9ad3-bbf4caca8e77",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T22:00:00Z",
-      "endDate": "2026-10-05T23:15:00Z",
-      "title": "Savage Speed & Agility Program - 10-13u",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "5ebd7121-feed-426f-ba48-70ba8c770f0d",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T22:00:00Z",
-      "endDate": "2026-10-05T23:15:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - 5-Week Course (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "ac43ba69-38ae-463e-8ed0-70b9e7d960af",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T22:00:00Z",
-      "endDate": "2026-10-05T23:15:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - Drop-In (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "d8de0090-1113-4ae2-b683-a75c68e642b9",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T22:00:00Z",
-      "endDate": "2026-10-05T23:15:00Z",
-      "title": "Savage Speed & Agility - Drop-In (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "0f4886c2-d0d5-4356-a04e-d300de61ed7c",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T23:30:00Z",
-      "endDate": "2026-10-06T00:45:00Z",
-      "title": "Savage Speed & Agility Program - 14-18u",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "94e64a1c-c340-4fd0-ace2-4ab78c6130c9",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T23:30:00Z",
-      "endDate": "2026-10-06T00:45:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - Drop-In (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "9be49085-47f3-475f-977b-cf4c081e491b",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T23:30:00Z",
-      "endDate": "2026-10-06T00:45:00Z",
-      "title": "Savage Speed & Agility - Drop-In (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "f50cf604-2f96-4c3a-9185-20c5020a6dc4",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-05T23:30:00Z",
-      "endDate": "2026-10-06T00:45:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - 5-Week Course (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "ba31bef0-56ac-482f-a3e7-34622e80adec",
+      "id": "e1",
       "status": "CONFIRMED",
       "startDate": "2026-10-06T20:00:00Z",
       "endDate": "2026-10-06T20:30:00Z",
@@ -123,7 +13,7 @@
       "participants": 1
     },
     {
-      "id": "e92edc2d-38a4-422d-a5fa-a57fcdcccc61",
+      "id": "e2",
       "status": "CONFIRMED",
       "startDate": "2026-10-07T21:30:00Z",
       "endDate": "2026-10-07T22:30:00Z",
@@ -134,7 +24,7 @@
       "participants": 1
     },
     {
-      "id": "98df27f7-835a-4232-b1ba-9984c4d3f223",
+      "id": "e3",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T20:00:00Z",
       "endDate": "2026-10-08T21:00:00Z",
@@ -145,7 +35,7 @@
       "participants": 1
     },
     {
-      "id": "148f84d6-70a7-415c-adee-ac0992c678e1",
+      "id": "e4",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T22:00:00Z",
       "endDate": "2026-10-08T23:30:00Z",
@@ -156,7 +46,7 @@
       "participants": 1
     },
     {
-      "id": "9b04a050-99a7-44cb-9ff2-62a0bee4ee60",
+      "id": "e5",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T23:30:00Z",
       "endDate": "2026-10-09T01:00:00Z",
@@ -167,7 +57,7 @@
       "participants": 1
     },
     {
-      "id": "4785668b-d716-462c-b46f-c378169c0dc3",
+      "id": "e6",
       "status": "CONFIRMED",
       "startDate": "2026-10-09T19:30:00Z",
       "endDate": "2026-10-09T20:00:00Z",
@@ -178,7 +68,7 @@
       "participants": 1
     },
     {
-      "id": "e20f6ca7-22f5-43e1-b42d-7f164db821d5",
+      "id": "e7",
       "status": "CONFIRMED",
       "startDate": "2026-10-09T20:00:00Z",
       "endDate": "2026-10-09T21:00:00Z",
@@ -189,7 +79,7 @@
       "participants": 1
     },
     {
-      "id": "ee124c14-2220-4d16-be9e-12df4daf9a77",
+      "id": "e8",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T13:00:00Z",
       "endDate": "2026-10-10T14:30:00Z",
@@ -200,7 +90,7 @@
       "participants": 1
     },
     {
-      "id": "548d545f-2924-4305-aae2-3343d42f6b37",
+      "id": "e9",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T14:30:00Z",
       "endDate": "2026-10-10T16:00:00Z",
@@ -211,7 +101,7 @@
       "participants": 1
     },
     {
-      "id": "f725a8a3-b46c-4bc6-9346-3b16675f4e0a",
+      "id": "e10",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T16:00:00Z",
       "endDate": "2026-10-10T17:30:00Z",
@@ -222,7 +112,7 @@
       "participants": 1
     },
     {
-      "id": "ace49070-d2c9-4946-b2a9-583e7d054fe3",
+      "id": "e11",
       "status": "CONFIRMED",
       "startDate": "2026-10-11T13:00:00Z",
       "endDate": "2026-10-11T14:30:00Z",
@@ -233,7 +123,7 @@
       "participants": 1
     },
     {
-      "id": "98c53d1e-b233-4173-a922-eb742964ad3b",
+      "id": "e12",
       "status": "CONFIRMED",
       "startDate": "2026-10-11T14:30:00Z",
       "endDate": "2026-10-11T16:00:00Z",
@@ -244,29 +134,7 @@
       "participants": 1
     },
     {
-      "id": "025f705d-f5f9-4154-b170-c9f4e78c710f",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T22:00:00Z",
-      "endDate": "2026-10-12T23:15:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - 5-Week Course (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "0a4cb4d1-c144-4b0a-9778-8ab42409bf9b",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T22:00:00Z",
-      "endDate": "2026-10-12T23:15:00Z",
-      "title": "Savage Speed & Agility - Drop-In (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "66bc7b0c-cb7d-4525-8c65-b08f026a7431",
+      "id": "e13",
       "status": "CONFIRMED",
       "startDate": "2026-10-12T22:00:00Z",
       "endDate": "2026-10-12T23:15:00Z",
@@ -277,29 +145,7 @@
       "participants": 1
     },
     {
-      "id": "ab63dd2e-50b6-4613-bc5a-14ce09fdd6d5",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T22:00:00Z",
-      "endDate": "2026-10-12T23:15:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - Drop-In (10-13u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "02f2328e-217f-4eb4-a4d5-35ffbcad7259",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T23:30:00Z",
-      "endDate": "2026-10-13T00:45:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - Drop-In (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "209558e2-7b1a-4330-b6b5-c7485809f6ae",
+      "id": "e14",
       "status": "CONFIRMED",
       "startDate": "2026-10-12T23:30:00Z",
       "endDate": "2026-10-13T00:45:00Z",
@@ -310,29 +156,7 @@
       "participants": 1
     },
     {
-      "id": "dd64cde3-a6e8-4f02-8c80-8eeab7085174",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T23:30:00Z",
-      "endDate": "2026-10-13T00:45:00Z",
-      "title": "Savage Speed & Agility - Drop-In (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "fd30b67f-3085-476b-b1ec-092d816f4bfe",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-12T23:30:00Z",
-      "endDate": "2026-10-13T00:45:00Z",
-      "title": "Canes PA/OV Savage Speed & Agility - 5-Week Course (14-18u)",
-      "resourceName": "Oscar Aguilera",
-      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "06ccaa28-e976-4e4f-a685-049cbb23fa97",
+      "id": "e15",
       "status": "CONFIRMED",
       "startDate": "2026-10-15T20:00:00Z",
       "endDate": "2026-10-15T21:00:00Z",
@@ -343,7 +167,7 @@
       "participants": 1
     },
     {
-      "id": "39ee66b7-d739-49df-bd3d-e56103d8ad0f",
+      "id": "e16",
       "status": "CONFIRMED",
       "startDate": "2026-10-16T18:00:00Z",
       "endDate": "2026-10-16T18:45:00Z",
@@ -354,7 +178,7 @@
       "participants": 1
     },
     {
-      "id": "e599a6c3-7735-41bc-a98a-4caa5d93ce7e",
+      "id": "e17",
       "status": "CONFIRMED",
       "startDate": "2026-10-16T20:00:00Z",
       "endDate": "2026-10-16T21:00:00Z",
@@ -365,7 +189,18 @@
       "participants": 1
     },
     {
-      "id": "c9af9478-9cf2-4574-bb83-df2d3c4ca258",
+      "id": "e18",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-19T19:00:00Z",
+      "endDate": "2026-10-19T19:45:00Z",
+      "title": "Recover. Rebuild. Return - Tier 2",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "e19",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T21:30:00Z",
       "endDate": "2026-10-19T22:00:00Z",
@@ -376,7 +211,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3w95Jt4ervURTPjZYR3lLfOE9",
+      "id": "e20",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T22:00:00Z",
       "endDate": "2026-10-19T23:45:00Z",
@@ -387,7 +222,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOUQr5cRmFyfcokubbQzIjFqVCX",
+      "id": "e21",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T23:30:00Z",
       "endDate": "2026-10-20T01:15:00Z",
@@ -398,7 +233,40 @@
       "participants": 1
     },
     {
-      "id": "38574952-f8d0-4757-af15-b24b4020415a",
+      "id": "e22",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-20T19:00:00Z",
+      "endDate": "2026-10-20T19:45:00Z",
+      "title": "Recover. Rebuild. Return - Tier 2",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "e23",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-20T20:00:00Z",
+      "endDate": "2026-10-20T21:00:00Z",
+      "title": "Recover. Rebuild. Return - Pay as you go",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "e24",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-21T20:00:00Z",
+      "endDate": "2026-10-21T21:00:00Z",
+      "title": "Recover. Rebuild. Return - Pay as you go",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "e25",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T21:30:00Z",
       "endDate": "2026-10-21T22:00:00Z",
@@ -409,7 +277,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhoYMh1T6KbJW1Tr6yjQ5FCwtB",
+      "id": "e26",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T22:00:00Z",
       "endDate": "2026-10-21T23:45:00Z",
@@ -420,7 +288,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NiediEAZFs2dZl8P3Rmeed2cn",
+      "id": "e27",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T23:30:00Z",
       "endDate": "2026-10-22T01:15:00Z",
@@ -431,7 +299,18 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVG6gWqBjk7YC0TKqLrnh3FNRo",
+      "id": "e28",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-22T20:00:00Z",
+      "endDate": "2026-10-22T21:00:00Z",
+      "title": "Recover. Rebuild. Return - Pay as you go",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "participants": 1
+    },
+    {
+      "id": "e29",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T14:00:00Z",
       "endDate": "2026-10-24T16:00:00Z",
@@ -442,7 +321,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkEVqrzY1mln0J61pBytpOQe8",
+      "id": "e30",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T15:30:00Z",
       "endDate": "2026-10-24T17:30:00Z",
@@ -453,7 +332,7 @@
       "participants": 1
     },
     {
-      "id": "19b36ae0-2437-464e-bf5b-e88d1fc7f213",
+      "id": "e31",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T18:00:00Z",
       "endDate": "2026-10-24T19:30:00Z",
@@ -464,7 +343,7 @@
       "participants": 1
     },
     {
-      "id": "4c2cab86-f383-4c80-835c-cef995fa1463",
+      "id": "e32",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T20:00:00Z",
       "endDate": "2026-10-24T21:30:00Z",
@@ -475,7 +354,7 @@
       "participants": 1
     },
     {
-      "id": "0a2cc9fb-f8d7-4d86-87ef-4cd5499fc32c",
+      "id": "e33",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T20:30:00Z",
       "endDate": "2026-10-26T21:00:00Z",
@@ -486,7 +365,7 @@
       "participants": 1
     },
     {
-      "id": "90551bab-fe8f-4b6a-991a-84a1ef9e5453",
+      "id": "e34",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T21:00:00Z",
       "endDate": "2026-10-26T21:30:00Z",
@@ -497,7 +376,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3w95LkhBEdBpda0R63jyNVv2T",
+      "id": "e35",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T22:00:00Z",
       "endDate": "2026-10-26T23:45:00Z",
@@ -508,7 +387,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOUQr5eJOmLNKCv4sSybywHh20r",
+      "id": "e36",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T23:30:00Z",
       "endDate": "2026-10-27T01:15:00Z",
@@ -519,7 +398,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhoYMh4fRK0IGW9JGnADm046rd",
+      "id": "e37",
       "status": "CONFIRMED",
       "startDate": "2026-10-28T22:00:00Z",
       "endDate": "2026-10-28T23:45:00Z",
@@ -530,7 +409,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NiediHMuFH1O4QaYrsaLPUCbF",
+      "id": "e38",
       "status": "CONFIRMED",
       "startDate": "2026-10-28T23:30:00Z",
       "endDate": "2026-10-29T01:15:00Z",
@@ -541,7 +420,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVG6gYhoG6pFaAdbhtUTu55uG8",
+      "id": "e39",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T14:00:00Z",
       "endDate": "2026-10-31T16:00:00Z",
@@ -552,7 +431,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkEVsjc4OUTBATMtMof6rExSS",
+      "id": "e40",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T15:30:00Z",
       "endDate": "2026-10-31T17:30:00Z",
@@ -563,7 +442,7 @@
       "participants": 1
     },
     {
-      "id": "58568443-d3a0-4dbd-b488-664de19d9728",
+      "id": "e41",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T18:00:00Z",
       "endDate": "2026-10-31T19:30:00Z",
@@ -574,7 +453,7 @@
       "participants": 1
     },
     {
-      "id": "cd6d7c0f-d4fb-4ab4-8889-6a66e673337d",
+      "id": "e42",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T20:00:00Z",
       "endDate": "2026-10-31T21:30:00Z",
@@ -585,7 +464,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsc1YuQYbQ62RUzoYPtyqL",
+      "id": "e43",
       "status": "CONFIRMED",
       "startDate": "2026-11-02T23:00:00Z",
       "endDate": "2026-11-03T00:45:00Z",
@@ -596,7 +475,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGBBBUg1Qdej1C8SaeP2wWD",
+      "id": "e44",
       "status": "CONFIRMED",
       "startDate": "2026-11-03T00:30:00Z",
       "endDate": "2026-11-03T02:15:00Z",
@@ -607,7 +486,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XDvzoznf2IfLHC6IM2SAfV",
+      "id": "e45",
       "status": "CONFIRMED",
       "startDate": "2026-11-04T23:00:00Z",
       "endDate": "2026-11-05T00:45:00Z",
@@ -618,7 +497,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoF99cZv7oo4jI1jC3Wq76b",
+      "id": "e46",
       "status": "CONFIRMED",
       "startDate": "2026-11-05T00:30:00Z",
       "endDate": "2026-11-05T02:15:00Z",
@@ -629,7 +508,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr3kiSPJtiHep0ZEfxqUbE8",
+      "id": "e47",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T15:00:00Z",
       "endDate": "2026-11-07T17:00:00Z",
@@ -640,7 +519,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgNmWGgz7JHUaC2YrAcdeQS",
+      "id": "e48",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T16:30:00Z",
       "endDate": "2026-11-07T18:30:00Z",
@@ -651,7 +530,7 @@
       "participants": 1
     },
     {
-      "id": "a95dbebd-d584-44fa-8521-94703183e38f",
+      "id": "e49",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T19:00:00Z",
       "endDate": "2026-11-07T20:30:00Z",
@@ -662,7 +541,7 @@
       "participants": 1
     },
     {
-      "id": "2a5bbd15-052e-476f-bdf2-df9c25c8c1b7",
+      "id": "e50",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T21:00:00Z",
       "endDate": "2026-11-07T22:30:00Z",
@@ -673,7 +552,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsfDttpXLulUbJQcFAl8on",
+      "id": "e51",
       "status": "CONFIRMED",
       "startDate": "2026-11-09T23:00:00Z",
       "endDate": "2026-11-10T00:45:00Z",
@@ -684,7 +563,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGD2o12j81otI3g5GrQtTKX",
+      "id": "e52",
       "status": "CONFIRMED",
       "startDate": "2026-11-10T00:30:00Z",
       "endDate": "2026-11-10T02:15:00Z",
@@ -695,7 +574,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XFncLMVMQSpc8jiyZ4IhTp",
+      "id": "e53",
       "status": "CONFIRMED",
       "startDate": "2026-11-11T23:00:00Z",
       "endDate": "2026-11-12T00:45:00Z",
@@ -706,7 +585,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoGYhHKMEQqzBIU35l5s6c",
+      "id": "e54",
       "status": "CONFIRMED",
       "startDate": "2026-11-12T00:30:00Z",
       "endDate": "2026-11-12T02:15:00Z",
@@ -717,7 +596,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr3pWCaFcFfOAMZoMqS8bU",
+      "id": "e55",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T15:00:00Z",
       "endDate": "2026-11-14T17:00:00Z",
@@ -728,7 +607,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgPyLFUeH7KGpOCT7RvV2mj",
+      "id": "e56",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T16:30:00Z",
       "endDate": "2026-11-14T18:30:00Z",
@@ -739,7 +618,7 @@
       "participants": 1
     },
     {
-      "id": "a0ebba1e-5258-4869-be0a-6d3ac40a0b19",
+      "id": "e57",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T19:00:00Z",
       "endDate": "2026-11-14T20:30:00Z",
@@ -750,7 +629,7 @@
       "participants": 1
     },
     {
-      "id": "f0fb4aff-6d3f-443d-86e2-fdbb61ee9fe1",
+      "id": "e58",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T21:00:00Z",
       "endDate": "2026-11-14T22:30:00Z",
@@ -761,7 +640,7 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsiJSJBOqFzwwknGCCiE6X",
+      "id": "e59",
       "status": "CONFIRMED",
       "startDate": "2026-11-16T23:00:00Z",
       "endDate": "2026-11-17T00:45:00Z",
@@ -772,296 +651,10 @@
       "participants": 1
     },
     {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGHXB5fzlbP1HxFHWKOF2sE",
+      "id": "e60",
       "status": "CONFIRMED",
       "startDate": "2026-11-17T00:30:00Z",
       "endDate": "2026-11-17T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XJxNp8IixL1l2y4SXlOiX",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-18T23:00:00Z",
-      "endDate": "2026-11-19T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoKkbKMDwM1JxFJhtNaRiZ",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-19T00:30:00Z",
-      "endDate": "2026-11-19T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr3vx3f8wGrCBQqJ3JQZin",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-21T15:00:00Z",
-      "endDate": "2026-11-21T17:00:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgSTy3XvqFaevlJmLmIeniz",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-21T16:30:00Z",
-      "endDate": "2026-11-21T18:30:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "45e0d3f4-f42c-4c28-bc71-f4e90e0be6bc",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-21T19:00:00Z",
-      "endDate": "2026-11-21T20:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "d31e4a65-67d6-42ef-b6cb-0e39ac9e7879",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-21T21:00:00Z",
-      "endDate": "2026-11-21T22:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsmfvvPeMsAoxoiERHPagY",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-23T23:00:00Z",
-      "endDate": "2026-11-24T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGMiDpxjxaFJsqcB3KKMhH",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-24T00:30:00Z",
-      "endDate": "2026-11-24T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XOHiKDvujdX6EWIpXWgce",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-25T23:00:00Z",
-      "endDate": "2026-11-26T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoONRTGDKrWGCc3DJjSw84",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-26T00:30:00Z",
-      "endDate": "2026-11-26T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr40K1YU7gRRPfqHkrC3XG",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-28T15:00:00Z",
-      "endDate": "2026-11-28T17:00:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgWBaVHXpGFxmhwIJ0GG0tJ",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-28T16:30:00Z",
-      "endDate": "2026-11-28T18:30:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "5bab1f21-bfa1-4c88-8c8b-a92e20f74be5",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-28T19:00:00Z",
-      "endDate": "2026-11-28T20:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "a75c9d1e-de66-4023-8ff7-86b5e8a1de5a",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-28T21:00:00Z",
-      "endDate": "2026-11-28T22:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFspT71ZBz5gd2OFLlcMqDV",
-      "status": "CONFIRMED",
-      "startDate": "2026-11-30T23:00:00Z",
-      "endDate": "2026-12-01T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGRcj5bhrM2C7k1zWh0DjW",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-01T00:30:00Z",
-      "endDate": "2026-12-01T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XTMoKp4xDUFMcBQqWg5ka",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-02T23:00:00Z",
-      "endDate": "2026-12-03T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoV6vSVrKkBB0UMb1TJqlS",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-03T00:30:00Z",
-      "endDate": "2026-12-03T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr4EgbU60N31D3V3LBpXpe",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-05T15:00:00Z",
-      "endDate": "2026-12-05T17:00:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgafTSJ2UpV8mE2Y2e3wFYn",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-05T16:30:00Z",
-      "endDate": "2026-12-05T18:30:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFssrQnMhbXlmRiM5VJVrD5",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-07T23:00:00Z",
-      "endDate": "2026-12-08T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGXFZtWjFpE0F2JY6YRSCO",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-08T00:30:00Z",
-      "endDate": "2026-12-08T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XXiNMKByuDUx6HarT0B3Wa",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-09T23:00:00Z",
-      "endDate": "2026-12-10T00:45:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAocmumT9cLLUq4HUb9IVS5",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-10T00:30:00Z",
-      "endDate": "2026-12-10T02:15:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr4MFBq5S5t2YxGIKJi9xR",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-12T15:00:00Z",
-      "endDate": "2026-12-12T17:00:00Z",
-      "title": "Savage Throwing Program - HS",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "participants": 1
-    },
-    {
-      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgkMqyMzXVCVMZNaxb9kL5v",
-      "status": "CONFIRMED",
-      "startDate": "2026-12-12T16:30:00Z",
-      "endDate": "2026-12-12T18:30:00Z",
       "title": "Savage Throwing Program - HS",
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
