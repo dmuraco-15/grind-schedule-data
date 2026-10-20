@@ -1,5 +1,5 @@
 {
-  "cachedAt": "2026-10-20T15:31:38.377Z",
+  "cachedAt": "2026-10-20T15:34:10.277Z",
   "bookings": [
     {
       "id": "e1",
@@ -10,6 +10,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
@@ -21,6 +22,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -32,6 +34,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -43,6 +46,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -54,6 +58,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -65,6 +70,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
@@ -76,6 +82,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -87,6 +94,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -98,6 +106,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -109,6 +118,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -120,6 +130,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -131,6 +142,7 @@
       "resourceName": "Turf Schedule",
       "resourceId": "224eec5f-f69e-4dd5-9a3d-3789fd1d8b52",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -142,6 +154,7 @@
       "resourceName": "Oscar Aguilera",
       "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -153,6 +166,7 @@
       "resourceName": "Oscar Aguilera",
       "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -164,6 +178,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -175,6 +190,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -186,6 +202,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -197,6 +214,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -208,6 +226,7 @@
       "resourceName": "Oscar Aguilera",
       "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -219,6 +238,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -230,6 +250,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -241,6 +262,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -252,6 +274,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -263,6 +286,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -274,6 +298,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -285,6 +310,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -296,6 +322,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -307,6 +334,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Bull Pen",
       "participants": 1
     },
     {
@@ -318,6 +346,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -329,6 +358,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -340,6 +370,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -351,6 +382,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -362,6 +394,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -373,6 +406,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -384,6 +418,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -395,6 +430,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -406,6 +442,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -417,6 +454,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -428,6 +466,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -439,6 +478,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -450,6 +490,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -461,6 +502,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -472,6 +514,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -483,6 +526,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -494,6 +538,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -505,6 +550,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -516,6 +562,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -527,6 +574,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -538,6 +586,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -549,6 +598,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -560,6 +610,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -571,6 +622,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -582,6 +634,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -593,6 +646,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -604,6 +658,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -615,6 +670,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -626,6 +682,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -637,6 +694,7 @@
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
+      "locationLabel": "",
       "participants": 1
     },
     {
@@ -648,6 +706,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
@@ -659,6 +718,7 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     }
   ]
