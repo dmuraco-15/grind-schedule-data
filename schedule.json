@@ -1,20 +1,8 @@
 {
-  "cachedAt": "2026-10-20T15:49:35.017Z",
+  "cachedAt": "2026-10-21T18:05:46.859Z",
   "bookings": [
     {
-      "id": "e1",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-06T20:00:00Z",
-      "endDate": "2026-10-06T20:30:00Z",
-      "title": "1/2 Hour Hitting Coach Muraco",
-      "resourceName": "David Muraco",
-      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
-      "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax)",
-      "participants": 1
-    },
-    {
-      "id": "e2",
+      "id": "e92edc2d-38a4-422d-a5fa-a57fcdcccc61",
       "status": "CONFIRMED",
       "startDate": "2026-10-07T21:30:00Z",
       "endDate": "2026-10-07T22:30:00Z",
@@ -26,7 +14,7 @@
       "participants": 1
     },
     {
-      "id": "e3",
+      "id": "98df27f7-835a-4232-b1ba-9984c4d3f223",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T20:00:00Z",
       "endDate": "2026-10-08T21:00:00Z",
@@ -38,7 +26,7 @@
       "participants": 1
     },
     {
-      "id": "e4",
+      "id": "148f84d6-70a7-415c-adee-ac0992c678e1",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T22:00:00Z",
       "endDate": "2026-10-08T23:30:00Z",
@@ -50,7 +38,7 @@
       "participants": 1
     },
     {
-      "id": "e5",
+      "id": "9b04a050-99a7-44cb-9ff2-62a0bee4ee60",
       "status": "CONFIRMED",
       "startDate": "2026-10-08T23:30:00Z",
       "endDate": "2026-10-09T01:00:00Z",
@@ -62,7 +50,7 @@
       "participants": 1
     },
     {
-      "id": "e6",
+      "id": "4785668b-d716-462c-b46f-c378169c0dc3",
       "status": "CONFIRMED",
       "startDate": "2026-10-09T19:30:00Z",
       "endDate": "2026-10-09T20:00:00Z",
@@ -74,7 +62,7 @@
       "participants": 1
     },
     {
-      "id": "e7",
+      "id": "e20f6ca7-22f5-43e1-b42d-7f164db821d5",
       "status": "CONFIRMED",
       "startDate": "2026-10-09T20:00:00Z",
       "endDate": "2026-10-09T21:00:00Z",
@@ -86,7 +74,7 @@
       "participants": 1
     },
     {
-      "id": "e8",
+      "id": "ee124c14-2220-4d16-be9e-12df4daf9a77",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T13:00:00Z",
       "endDate": "2026-10-10T14:30:00Z",
@@ -98,7 +86,7 @@
       "participants": 1
     },
     {
-      "id": "e9",
+      "id": "548d545f-2924-4305-aae2-3343d42f6b37",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T14:30:00Z",
       "endDate": "2026-10-10T16:00:00Z",
@@ -110,7 +98,7 @@
       "participants": 1
     },
     {
-      "id": "e10",
+      "id": "f725a8a3-b46c-4bc6-9346-3b16675f4e0a",
       "status": "CONFIRMED",
       "startDate": "2026-10-10T16:00:00Z",
       "endDate": "2026-10-10T17:30:00Z",
@@ -122,7 +110,7 @@
       "participants": 1
     },
     {
-      "id": "e11",
+      "id": "ace49070-d2c9-4946-b2a9-583e7d054fe3",
       "status": "CONFIRMED",
       "startDate": "2026-10-11T13:00:00Z",
       "endDate": "2026-10-11T14:30:00Z",
@@ -134,7 +122,7 @@
       "participants": 1
     },
     {
-      "id": "e12",
+      "id": "98c53d1e-b233-4173-a922-eb742964ad3b",
       "status": "CONFIRMED",
       "startDate": "2026-10-11T14:30:00Z",
       "endDate": "2026-10-11T16:00:00Z",
@@ -146,11 +134,11 @@
       "participants": 1
     },
     {
-      "id": "e13",
+      "id": "025f705d-f5f9-4154-b170-c9f4e78c710f",
       "status": "CONFIRMED",
       "startDate": "2026-10-12T22:00:00Z",
       "endDate": "2026-10-12T23:15:00Z",
-      "title": "Savage Speed & Agility Program - 10-13u",
+      "title": "Canes PA/OV Savage Speed & Agility – 5-Week Course (10–13u)",
       "resourceName": "Oscar Aguilera",
       "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
       "clientFirstName": "",
@@ -158,11 +146,47 @@
       "participants": 1
     },
     {
-      "id": "e14",
+      "id": "0a4cb4d1-c144-4b0a-9778-8ab42409bf9b",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T22:00:00Z",
+      "endDate": "2026-10-12T23:15:00Z",
+      "title": "Savage Speed & Agility – Drop-In (10-13u)",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "66bc7b0c-cb7d-4525-8c65-b08f026a7431",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T22:00:00Z",
+      "endDate": "2026-10-12T23:15:00Z",
+      "title": "Savage Speed & Agility Program – 10-13u",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "ab63dd2e-50b6-4613-bc5a-14ce09fdd6d5",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T22:00:00Z",
+      "endDate": "2026-10-12T23:15:00Z",
+      "title": "Canes PA/OV Savage Speed & Agility – Drop-In (10–13u)",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "02f2328e-217f-4eb4-a4d5-35ffbcad7259",
       "status": "CONFIRMED",
       "startDate": "2026-10-12T23:30:00Z",
       "endDate": "2026-10-13T00:45:00Z",
-      "title": "Savage Speed & Agility Program - 14-18u",
+      "title": "Canes PA/OV Savage Speed & Agility – Drop-In (14–18u)",
       "resourceName": "Oscar Aguilera",
       "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
       "clientFirstName": "",
@@ -170,7 +194,43 @@
       "participants": 1
     },
     {
-      "id": "e15",
+      "id": "209558e2-7b1a-4330-b6b5-c7485809f6ae",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T23:30:00Z",
+      "endDate": "2026-10-13T00:45:00Z",
+      "title": "Savage Speed & Agility Program – 14-18u",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "dd64cde3-a6e8-4f02-8c80-8eeab7085174",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T23:30:00Z",
+      "endDate": "2026-10-13T00:45:00Z",
+      "title": "Savage Speed & Agility – Drop-In (14-18u)",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "fd30b67f-3085-476b-b1ec-092d816f4bfe",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-12T23:30:00Z",
+      "endDate": "2026-10-13T00:45:00Z",
+      "title": "Canes PA/OV Savage Speed & Agility – 5-Week Course (14–18u)",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "06ccaa28-e976-4e4f-a685-049cbb23fa97",
       "status": "CONFIRMED",
       "startDate": "2026-10-15T20:00:00Z",
       "endDate": "2026-10-15T21:00:00Z",
@@ -182,7 +242,7 @@
       "participants": 1
     },
     {
-      "id": "e16",
+      "id": "39ee66b7-d739-49df-bd3d-e56103d8ad0f",
       "status": "CONFIRMED",
       "startDate": "2026-10-16T18:00:00Z",
       "endDate": "2026-10-16T18:45:00Z",
@@ -194,7 +254,7 @@
       "participants": 1
     },
     {
-      "id": "e17",
+      "id": "e599a6c3-7735-41bc-a98a-4caa5d93ce7e",
       "status": "CONFIRMED",
       "startDate": "2026-10-16T20:00:00Z",
       "endDate": "2026-10-16T21:00:00Z",
@@ -206,7 +266,7 @@
       "participants": 1
     },
     {
-      "id": "e18",
+      "id": "52f20af6-b83b-48e4-913e-045082c26937",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T19:00:00Z",
       "endDate": "2026-10-19T19:45:00Z",
@@ -218,7 +278,7 @@
       "participants": 1
     },
     {
-      "id": "e19",
+      "id": "c9af9478-9cf2-4574-bb83-df2d3c4ca258",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T21:30:00Z",
       "endDate": "2026-10-19T22:00:00Z",
@@ -230,7 +290,7 @@
       "participants": 1
     },
     {
-      "id": "e20",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3w95Jt4ervURTPjZYR3lLfOE9",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T22:00:00Z",
       "endDate": "2026-10-19T23:45:00Z",
@@ -238,11 +298,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e21",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOUQr5cRmFyfcokubbQzIjFqVCX",
       "status": "CONFIRMED",
       "startDate": "2026-10-19T23:30:00Z",
       "endDate": "2026-10-20T01:15:00Z",
@@ -250,11 +310,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e22",
+      "id": "a15e46c9-027a-438b-93bb-2be35d822b47",
       "status": "CONFIRMED",
       "startDate": "2026-10-20T19:00:00Z",
       "endDate": "2026-10-20T19:45:00Z",
@@ -266,7 +326,7 @@
       "participants": 1
     },
     {
-      "id": "e23",
+      "id": "814532ce-7db5-4275-b4a6-d6bd127b0edd",
       "status": "CONFIRMED",
       "startDate": "2026-10-20T20:00:00Z",
       "endDate": "2026-10-20T21:00:00Z",
@@ -278,7 +338,7 @@
       "participants": 1
     },
     {
-      "id": "e24",
+      "id": "7d62ae75-b8bb-4092-bb41-c44507ed0894",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T20:00:00Z",
       "endDate": "2026-10-21T21:00:00Z",
@@ -290,7 +350,7 @@
       "participants": 1
     },
     {
-      "id": "e25",
+      "id": "38574952-f8d0-4757-af15-b24b4020415a",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T21:30:00Z",
       "endDate": "2026-10-21T22:00:00Z",
@@ -302,7 +362,7 @@
       "participants": 1
     },
     {
-      "id": "e26",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhoYMh1T6KbJW1Tr6yjQ5FCwtB",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T22:00:00Z",
       "endDate": "2026-10-21T23:45:00Z",
@@ -310,11 +370,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e27",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NiediEAZFs2dZl8P3Rmeed2cn",
       "status": "CONFIRMED",
       "startDate": "2026-10-21T23:30:00Z",
       "endDate": "2026-10-22T01:15:00Z",
@@ -322,11 +382,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e28",
+      "id": "6a89a564-0a6e-4c09-a509-44805b49853e",
       "status": "CONFIRMED",
       "startDate": "2026-10-22T20:00:00Z",
       "endDate": "2026-10-22T21:00:00Z",
@@ -338,7 +398,7 @@
       "participants": 1
     },
     {
-      "id": "e29",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVG6gWqBjk7YC0TKqLrnh3FNRo",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T14:00:00Z",
       "endDate": "2026-10-24T16:00:00Z",
@@ -346,11 +406,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e30",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkEVqrzY1mln0J61pBytpOQe8",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T15:30:00Z",
       "endDate": "2026-10-24T17:30:00Z",
@@ -358,15 +418,15 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e31",
+      "id": "19b36ae0-2437-464e-bf5b-e88d1fc7f213",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T18:00:00Z",
       "endDate": "2026-10-24T19:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -374,11 +434,11 @@
       "participants": 1
     },
     {
-      "id": "e32",
+      "id": "4c2cab86-f383-4c80-835c-cef995fa1463",
       "status": "CONFIRMED",
       "startDate": "2026-10-24T20:00:00Z",
       "endDate": "2026-10-24T21:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -386,7 +446,7 @@
       "participants": 1
     },
     {
-      "id": "e33",
+      "id": "0a2cc9fb-f8d7-4d86-87ef-4cd5499fc32c",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T20:30:00Z",
       "endDate": "2026-10-26T21:00:00Z",
@@ -394,11 +454,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e34",
+      "id": "90551bab-fe8f-4b6a-991a-84a1ef9e5453",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T21:00:00Z",
       "endDate": "2026-10-26T21:30:00Z",
@@ -410,7 +470,7 @@
       "participants": 1
     },
     {
-      "id": "e35",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3w95LkhBEdBpda0R63jyNVv2T",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T22:00:00Z",
       "endDate": "2026-10-26T23:45:00Z",
@@ -418,11 +478,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e36",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOUQr5eJOmLNKCv4sSybywHh20r",
       "status": "CONFIRMED",
       "startDate": "2026-10-26T23:30:00Z",
       "endDate": "2026-10-27T01:15:00Z",
@@ -430,11 +490,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e37",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhoYMh4fRK0IGW9JGnADm046rd",
       "status": "CONFIRMED",
       "startDate": "2026-10-28T22:00:00Z",
       "endDate": "2026-10-28T23:45:00Z",
@@ -442,11 +502,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e38",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoHMuFH1O4QaYrsaLPUCbF",
       "status": "CONFIRMED",
       "startDate": "2026-10-28T23:30:00Z",
       "endDate": "2026-10-29T01:15:00Z",
@@ -454,11 +514,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e39",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVG6gYhoG6pFaAdbhtUTu55uG8",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T14:00:00Z",
       "endDate": "2026-10-31T16:00:00Z",
@@ -466,11 +526,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e40",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkEVsjc4OUTBATMtMof6rExSS",
       "status": "CONFIRMED",
       "startDate": "2026-10-31T15:30:00Z",
       "endDate": "2026-10-31T17:30:00Z",
@@ -478,35 +538,47 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "58568443-d3a0-4dbd-b488-664de19d9728",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-31T18:00:00Z",
+      "endDate": "2026-10-31T19:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "cd6d7c0f-d4fb-4ab4-8889-6a66e673337d",
+      "status": "CONFIRMED",
+      "startDate": "2026-10-31T20:00:00Z",
+      "endDate": "2026-10-31T21:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "4a4c1d0a-9858-42c2-bc6a-ace2098674f0",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-02T22:30:00Z",
+      "endDate": "2026-11-02T23:00:00Z",
+      "title": "1/2 Hour Hitting Coach Aguilera",
+      "resourceName": "Oscar Aguilera",
+      "resourceId": "3529eb97-d6e3-4f83-9af4-698dc273e442",
+      "clientFirstName": "",
       "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e41",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-31T18:00:00Z",
-      "endDate": "2026-10-31T19:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "locationLabel": "",
-      "participants": 1
-    },
-    {
-      "id": "e42",
-      "status": "CONFIRMED",
-      "startDate": "2026-10-31T20:00:00Z",
-      "endDate": "2026-10-31T21:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
-      "resourceName": "Andrew Muraco",
-      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
-      "clientFirstName": "",
-      "locationLabel": "",
-      "participants": 1
-    },
-    {
-      "id": "e43",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsc1YuQYbQ62RUzoYPtyqL",
       "status": "CONFIRMED",
       "startDate": "2026-11-02T23:00:00Z",
       "endDate": "2026-11-03T00:45:00Z",
@@ -514,11 +586,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e44",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGBBBUg1Qdej1C8SaeP2wWD",
       "status": "CONFIRMED",
       "startDate": "2026-11-03T00:30:00Z",
       "endDate": "2026-11-03T02:15:00Z",
@@ -526,11 +598,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e45",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XDvzoznf2IfLHC6IM2SAfV",
       "status": "CONFIRMED",
       "startDate": "2026-11-04T23:00:00Z",
       "endDate": "2026-11-05T00:45:00Z",
@@ -538,11 +610,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e46",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoF99cZv7oo4jI1jC3Wq76b",
       "status": "CONFIRMED",
       "startDate": "2026-11-05T00:30:00Z",
       "endDate": "2026-11-05T02:15:00Z",
@@ -550,11 +622,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e47",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr3kiSPJtiHep0ZEfxqUbE8",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T15:00:00Z",
       "endDate": "2026-11-07T17:00:00Z",
@@ -562,11 +634,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e48",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgNmWGgz7JHUaC2YrAcdeQS",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T16:30:00Z",
       "endDate": "2026-11-07T18:30:00Z",
@@ -574,15 +646,15 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e49",
+      "id": "a95dbebd-d584-44fa-8521-94703183e38f",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T19:00:00Z",
       "endDate": "2026-11-07T20:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -590,11 +662,11 @@
       "participants": 1
     },
     {
-      "id": "e50",
+      "id": "2a5bbd15-052e-476f-bdf2-df9c25c8c1b7",
       "status": "CONFIRMED",
       "startDate": "2026-11-07T21:00:00Z",
       "endDate": "2026-11-07T22:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -602,7 +674,7 @@
       "participants": 1
     },
     {
-      "id": "e51",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFsfDttpXLulUbJQcFAl8on",
       "status": "CONFIRMED",
       "startDate": "2026-11-09T23:00:00Z",
       "endDate": "2026-11-10T00:45:00Z",
@@ -610,11 +682,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e52",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGD2o12j81otI3g5GrQtTKX",
       "status": "CONFIRMED",
       "startDate": "2026-11-10T00:30:00Z",
       "endDate": "2026-11-10T02:15:00Z",
@@ -622,11 +694,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e53",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XFncLMVMQSpc8jiyZ4IhTp",
       "status": "CONFIRMED",
       "startDate": "2026-11-11T23:00:00Z",
       "endDate": "2026-11-12T00:45:00Z",
@@ -634,11 +706,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
       "participants": 1
     },
     {
-      "id": "e54",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoH0m8wcpCyF09ZLsGYgduv",
       "status": "CONFIRMED",
       "startDate": "2026-11-12T00:30:00Z",
       "endDate": "2026-11-12T02:15:00Z",
@@ -646,11 +718,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e55",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr5cKym1b6Rp5s6rMAsL82S",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T15:00:00Z",
       "endDate": "2026-11-14T17:00:00Z",
@@ -658,11 +730,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e56",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkkgPe8n3gohRer3aBXNeUBEm",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T16:30:00Z",
       "endDate": "2026-11-14T18:30:00Z",
@@ -670,15 +742,15 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e57",
+      "id": "2772601c-b25c-40ef-b18e-190f483469a9",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T19:00:00Z",
       "endDate": "2026-11-14T20:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 9-13u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -686,11 +758,11 @@
       "participants": 1
     },
     {
-      "id": "e58",
+      "id": "575205c4-7bea-4c0f-98d0-abc07f2d984f",
       "status": "CONFIRMED",
       "startDate": "2026-11-14T21:00:00Z",
       "endDate": "2026-11-14T22:30:00Z",
-      "title": "Savage Infield Masterclass with Coach Andrew Muraco - 14-18u",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
       "resourceName": "Andrew Muraco",
       "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
       "clientFirstName": "",
@@ -698,7 +770,7 @@
       "participants": 1
     },
     {
-      "id": "e59",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFuWqQGXEk4vlSr3ISCbfd7",
       "status": "CONFIRMED",
       "startDate": "2026-11-16T23:00:00Z",
       "endDate": "2026-11-17T00:45:00Z",
@@ -706,11 +778,11 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     },
     {
-      "id": "e60",
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGD60M286mJYkDUW4YBkdIz",
       "status": "CONFIRMED",
       "startDate": "2026-11-17T00:30:00Z",
       "endDate": "2026-11-17T02:15:00Z",
@@ -718,7 +790,439 @@
       "resourceName": "David Muraco",
       "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
       "clientFirstName": "",
-      "locationLabel": "Cage - 1 (Hit Trax) / Cage - 2 (Rapsodo) / Bull Pen",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XFqogLuLAxV4IY9mFp9rSH",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-18T23:00:00Z",
+      "endDate": "2026-11-19T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoH3yTw1nxSuSJNmfxJXntN",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-19T00:30:00Z",
+      "endDate": "2026-11-19T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr7TxV8jIUbzMjeU2NuBeqm",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-21T15:00:00Z",
+      "endDate": "2026-11-21T17:00:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkgRVlJQOW5bp7v7oDagKi36",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-21T16:30:00Z",
+      "endDate": "2026-11-21T18:30:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "02861439-0b1d-4f0e-b5b4-2c78ed20fc3c",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-21T19:00:00Z",
+      "endDate": "2026-11-21T20:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "3a27aa48-bb79-40b9-b0cc-e466f22aeed4",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-21T21:00:00Z",
+      "endDate": "2026-11-21T22:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFwOSwdEw8F62KOfyfESCRR",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-23T23:00:00Z",
+      "endDate": "2026-11-24T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURNGExcsOpoATj1528klDbA7J",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-24T00:30:00Z",
+      "endDate": "2026-11-24T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhp4XHiRCic2Z7fLA5mSSr0OGb",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-25T23:00:00Z",
+      "endDate": "2026-11-26T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjAoIvb0IjVLd4jAvPMALOKhh",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-26T00:30:00Z",
+      "endDate": "2026-11-26T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVGcr7X9q88HF6eotSuq4f2opE",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-28T15:00:00Z",
+      "endDate": "2026-11-28T17:00:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DkgRYxePnUq6Ua4wF1HRBs1Y",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-28T16:30:00Z",
+      "endDate": "2026-11-28T18:30:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "246b01ba-47cc-4ee2-9d1c-0186f0eceadd",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-28T19:00:00Z",
+      "endDate": "2026-11-28T20:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "cea9ae56-8433-488c-9c52-b91016e9284f",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-28T21:00:00Z",
+      "endDate": "2026-11-28T22:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3wfFyG5SzwdWPGJBwIesGIjFl",
+      "status": "CONFIRMED",
+      "startDate": "2026-11-30T23:00:00Z",
+      "endDate": "2026-12-01T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURtQlpPampCNPflIWcnShvYX7",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-01T00:30:00Z",
+      "endDate": "2026-12-01T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhpahoaDv6bQm3c5NaGVALKmgP",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-02T23:00:00Z",
+      "endDate": "2026-12-03T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjgypnNigitYZ1TOPtOrpij7V",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-03T00:30:00Z",
+      "endDate": "2026-12-03T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVH91eOwYW7fS2bZ6xOsm9NDF2",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-05T15:00:00Z",
+      "endDate": "2026-12-05T17:00:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DlGqyQkMnmt32RKIQj3yvWGRM",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-05T16:30:00Z",
+      "endDate": "2026-12-05T18:30:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "985e7206-2f2e-40ea-9fda-abd9f68a7f67",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-05T19:00:00Z",
+      "endDate": "2026-12-05T20:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "b2eb6c37-f11b-4415-b469-d21945496341",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-05T21:00:00Z",
+      "endDate": "2026-12-05T22:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3xBQTJS00dJ5fiEhhap3Tdkph",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-07T23:00:00Z",
+      "endDate": "2026-12-08T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURtQlsbvmEB7uLDSL3b9SmiVZ",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-08T00:30:00Z",
+      "endDate": "2026-12-08T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhpahodQG60PWYHXXOhIr6Bwer",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-09T23:00:00Z",
+      "endDate": "2026-12-10T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5Njgyrf0F3QawjBkFxW54rZFvp",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-10T00:30:00Z",
+      "endDate": "2026-12-10T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVH91gGZ4spMqClpyV1YzBDk3M",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-12T15:00:00Z",
+      "endDate": "2026-12-12T17:00:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DlGr0IMtAUaRCbb9yLkBxMnFg",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-12T16:30:00Z",
+      "endDate": "2026-12-12T18:30:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "1b409f79-2156-4d2d-8a80-877d9564d244",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-12T19:00:00Z",
+      "endDate": "2026-12-12T20:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 9-13u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "2238786f-4df8-4539-b14a-fc097ddc69b7",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-12T21:00:00Z",
+      "endDate": "2026-12-12T22:30:00Z",
+      "title": "Savage Infield Masterclass with Coach Andrew Muraco — 14-18u",
+      "resourceName": "Andrew Muraco",
+      "resourceId": "10185d04-ebb6-46a9-9231-ac1fd3d45705",
+      "clientFirstName": "",
+      "locationLabel": "",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsHbEeQx2vCsLiZFaNC7VSW1wkXSVnmlxSBIJXilVXpA5PTI1rLND3xBQVB4WNL0TpsVZFDVGVUHe1",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-14T23:00:00Z",
+      "endDate": "2026-12-15T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqBqNzz1FYXUVq3uE116vWlGWiIu3CqB3vAiZQoK5qHzG2rGYBMpOURtQnkES8vsW4VUJsgHMUdFJt",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-15T00:30:00Z",
+      "endDate": "2026-12-15T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKsA1cDpf7CuTCeGeqtif5ISiJlZ2HmXj2YZ7Z99sJJ5WkijbduMMdhpahqV2mSi6uiRoOwJz482TTB",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-16T23:00:00Z",
+      "endDate": "2026-12-17T00:45:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Cage - 1 (Hit Trax) / Bull Pen",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKqEa0xbjkRzw5HYP4fHJLFawqNxTJTdd1pS1bXUTFNr7OdwnuUAB5NjgyriCa2pZhDrCPlwslcQPuH",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-17T00:30:00Z",
+      "endDate": "2026-12-17T02:15:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq11B2MuEudTe2xC4V3KTrAfRLoAb2yg4vQN0Z1q3RNFrQdOFrH6xVH91gJlPsELahRI8JSMfw4u1o",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-19T15:00:00Z",
+      "endDate": "2026-12-19T17:00:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
+      "participants": 1
+    },
+    {
+      "id": "249c6EaEZwxX5oM7zjRUY0G5se5m0ksRY4b5Twh7zzKq9BKuop4taKQWPmJn3W0zgvYI5eHN57BL7xQIbYxSwTBoC5keU59DlGr0LZE9tZBhH3JmmXsiDxE8",
+      "status": "CONFIRMED",
+      "startDate": "2026-12-19T16:30:00Z",
+      "endDate": "2026-12-19T18:30:00Z",
+      "title": "Savage Throwing Program - HS",
+      "resourceName": "David Muraco",
+      "resourceId": "8935300d-5275-4c9f-83fe-9ab8a21a737c",
+      "clientFirstName": "",
+      "locationLabel": "Cage - 2 (Rapsodo) / Bull Pen / Cage - 1 (Hit Trax)",
       "participants": 1
     }
   ]
